@@ -24,4 +24,3 @@ BMI = (weight (lbs) x 703) / (height (inches) ^2)
 | 35 - 39.9   | Severely Obese   | Very High           |
 | 40 and over | Morbidly Obese   | Extremely High      |
 
----
